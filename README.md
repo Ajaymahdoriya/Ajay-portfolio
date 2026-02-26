@@ -101,7 +101,7 @@ Open a Pull Request
 📬 Contact Me
 
 Email: ajay.mahdoriya7505@gmail.com
-LinkedIn: linkedin.com/in/ajaymahdoriya
+LinkedIn: linkedin.com/in/ajay-mahdoriya-973790277
 GitHub: github.com/Ajaymahdoriya
 Twitter/X: x.com/ajay
 
@@ -110,6 +110,5 @@ Twitter/X: x.com/ajay
 
 This project is open-source and available under the MIT License
 
-If you want, I can also **enhance it with badges, screenshots, and a “Made with ❤️” footer** to make it **look even more professional on GitHub**.  
-Do you want me to do that next?
+
 
