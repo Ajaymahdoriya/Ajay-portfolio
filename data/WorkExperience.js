@@ -36,7 +36,7 @@ export const WorkExperience = [
       "Tailwind CSS",
       "Docker, AWS, CI/CD"
     ],
-    time: "Jan 2024 – Jan 2025",
+    time: "May 2025 – Jul 2025",
     location: "Remote",
   },
 ];
