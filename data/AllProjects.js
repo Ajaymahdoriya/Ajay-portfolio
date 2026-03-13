@@ -9,6 +9,17 @@ export const Categories = [
 
 export const AllProjects = [
   {
+    name: "SmartAssist",
+    description: "AI-powered SaaS platform that lets businesses deploy intelligent customer support chatbots on any website with a single line of code. Features SSO authentication, a management dashboard, and Google Gemini AI.",
+    image: "/work/SmartAssist.png",
+    category: ["AI", "Full-Stack"],
+    techStack: ["Next.js", "TypeScript", "MongoDB", "Google Gemini AI", "Tailwind CSS", "Framer Motion"],
+    link: "https://smart-assist-pearl.vercel.app/",
+    github: "https://github.com/Ajaymahdoriya/SmartAssist",
+    linkedin: null,
+    isLatest: true,
+  },
+  {
     name: "TestiGO",
     description: "An online exam platform with AI assistance. Teachers create exams, students take them securely with real-time monitoring and AI chat support.",
     image: "/work/TestiGO.png",
